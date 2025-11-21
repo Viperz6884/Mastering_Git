@@ -5,5 +5,3 @@
 - I'm adding this from 'feature-branch'
 - My name is Prietish Pathak.
 - I am learning Github.
-- I am learning Git.
-- I am learning JSM.
